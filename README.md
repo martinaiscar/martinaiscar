@@ -1,6 +1,6 @@
 ### Hi everyone 😄👋
 
-My name is Martin Aiscar and I am an Industrial Engineer student from Universidad Tecnológica Nacional Buenos Aires.
+My name is Martin Aiscar and I am an Industrial Engineer student from the Universidad Tecnológica Nacional Buenos Aires.
 <!--
 **martinaiscar/martinaiscar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
